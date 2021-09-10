@@ -19,7 +19,7 @@ BOM of screw:
 
 -2pcs M3x20 for mounting the orbiter and orbiter bracket to the body
 
-4pcs M2.5x8 for dragon to Orbiter bracket (it should have come with the dragon)
+-4pcs M2.5x8 for dragon to Orbiter bracket (it should have come with the dragon)
 
 
 BOM
