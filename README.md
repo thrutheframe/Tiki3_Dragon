@@ -4,18 +4,29 @@
 Just freshly exported out from Fusion360 after some changes to the alpha ver. This version is for testers. 
 
 BOM of screw:
+
 -4pcs M3x12 or M3x14 for 3010 fan
+
 -2pcs M3x12 or M3x14 for fan duct
+
 -2pcs M3x8 for body_base to ender carriage
+
 -2pcs M3x8 for cable relief
+
 -4pcs M3x8 for BL Bracket 
+
 -1pc  M3x8 for fan duct bracket to body_top
+
 -2pcs M3x20 for mounting the orbiter and orbiter bracket to the body
+
 4pcs M2.5x8 for dragon to Orbiter bracket (it should have come with the dragon)
+
 
 BOM
 -3010 fan
+
 -5015 fan
+
 
 BLT offset: X= 35.5 Y=0
 
