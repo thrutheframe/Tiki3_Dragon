@@ -1,6 +1,9 @@
 ![Gen3 2 Orbiter Dragon 1](https://user-images.githubusercontent.com/68491566/132848046-67d77863-799a-4bd1-ae1e-968a23e3ffc2.png)
 # Tiki3_Dragon (beta)
 
+<b>Update 12 Sep 2021: </b> shorter version of cable relief added. reduce by 20mm from the original. This is to prevent the cable from hitting the top bar during tall prints. 
+\
+\
 <b>Update 11 Sep 2021: </b> The existing opening for the heater and thermistor cables enlarge slightly. Do note that if you orientate the heater block is the opposing direction. The opening should not be used. The wire will then run outside the BLT bracket and tied to the cable relief. 
 \
 \
