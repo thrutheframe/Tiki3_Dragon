@@ -3,7 +3,6 @@
 
 <b>Update 27 Sep 2021: </b> I have included the step and stl file for the body_base.  
 \
-\
 <b>Update 12 Sep 2021: </b> shorter version of cable relief added. reduce by 20mm from the original. This is to prevent the cable from hitting the top bar during tall prints. 
 \
 \
