@@ -15,7 +15,7 @@ Just freshly exported out from Fusion360 after some changes to the alpha ver. Th
 
 <u> BOM of screw:\
 -4pcs M3x12 or M3x14 for 3010 fan\
--2pcs M3x12 or M3x14 for fan duct\
+-2pcs M3x12 or M3x14 for fan duct (washer maybe needed as the slot are larger for horizontal adjustments)\
 -2pcs M3x8 for body_base to ender carriage\
 -2pcs M3x8 for cable relief\
 -4pcs M3x8 for BL Bracket\
