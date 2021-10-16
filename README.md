@@ -1,6 +1,9 @@
 ![Gen3 2 Orbiter Dragon 1](https://user-images.githubusercontent.com/68491566/132848046-67d77863-799a-4bd1-ae1e-968a23e3ffc2.png)
 # Tiki3_Dragon (beta)
 
+<b>Update 17 Oct 2021: </b> included fan_duct V2 and added body_top and fanduct_bracket for adxl345 (Klipper users) 
+
+
 <b>Update 27 Sep 2021: </b> I have included the step and stl file for the body_base.  
 \
 <b>Update 12 Sep 2021: </b> shorter version of cable relief added. reduce by 20mm from the original. This is to prevent the cable from hitting the top bar during tall prints. 
