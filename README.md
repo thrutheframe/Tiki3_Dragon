@@ -36,13 +36,13 @@ BLT offset: X= 35.5 Y=0
 
 Please print in high temp filament. PLA and PLA+ will warp at the area closest to the heatblock. I print mine in CF petg. 
 
-I have the sets for self-tapping M3 and another for M3x4x6.3 brass inserts. I recommend using the brass insert version if you can.
+I have designed 2 sets; one for self-tapping M3 and another for M3x4x6.3 brass inserts. I recommend using the brass insert version if you can.
 
-There is 2 versions for the mount. adxl and non-adxl. adxl is for Klipper users who want to install adxl1345. If you are a Marlin user, the non adxl version is better.
+There are 2 versions for the mount. adxl and non-adxl. adxl is for Klipper users who want to install adxl1345. If you are a Marlin user, the non adxl version is better.
 
 If printing in ABS or any material that will shrink, please remember to scale while slicing.
 
-holes on the self tap version are design at 3mm to accomodate for some shrinkage during print which will come to 2.8mm.
+Holes on the self tap version are design at 3mm to accomodate for some shrinkage during print which will come to 2.8mm.
 
 mount holes BLT bracket, fan duct bracket are slotted for 1-1.5mm for adjustments 
 
