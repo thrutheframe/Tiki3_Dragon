@@ -1,6 +1,8 @@
 ![Gen3 2 Orbiter Dragon 1](https://user-images.githubusercontent.com/68491566/132848046-67d77863-799a-4bd1-ae1e-968a23e3ffc2.png)
 # Tiki3_Dragon
 
+<b>Update 12 Nov 2021: </b> This mount is for Orbiter V1.5. There will not be an update of Tiki3_Dragon for Orbiter V2.0. 
+
 <b>Update 17 Oct 2021: </b> included fan_duct V2 and added body_top and fanduct_bracket for adxl345. Please note the distance for the mounting holes are 19mm. you will also need to directly solder your wire or use L-pins.
 \
 \
@@ -30,9 +32,13 @@ BOM\
 -3010 fan (Please use the high static pressure version, those that runs at 8500rpm will not push enough air)\
 -5015 fan\
 \
-BLT offset: X= 35.5 Y=0\
-\
-Please print in high temp filament. PLA and PLA+ will warp at the area closest to the heatblock. I print mine in CF petg
+BLT offset: X= 35.5 Y=0
+
+Please print in high temp filament. PLA and PLA+ will warp at the area closest to the heatblock. I print mine in CF petg. 
+
+I have the sets for self-tapping M3 and another for M3x4x6.3 brass inserts. I recommend using the brass insert version if you can.
+
+There is 2 versions for the mount. adxl and non-adxl. adxl is for Klipper users who want to install adxl1345. If you are a Marlin user, the non adxl version is better.
 
 If printing in ABS or any material that will shrink, please remember to scale while slicing.
 
@@ -106,4 +112,4 @@ Q: Why it is called Tiki3
 A: Tiki was the name of our family dog. He passed away several years ago and we still miss him dearly. So I named this system after him. 
 
 <b>Contributions</b>\
- My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like using this system and would like to really thanks me, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
+ My 3D printing hobby is running on Fun-Funds which is usually in fumes state. Contribution to this funds are from small print jobs, servicing 3D printers and the once-in-a-blue-moon tip to my paypal.me account. If you like using this system and would like to thanks me, a $2 coffee tip will be greatly appreciated (I like coffee). Thank you. https://www.paypal.com/paypalme/shannonheng
