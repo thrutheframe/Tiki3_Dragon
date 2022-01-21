@@ -1,6 +1,21 @@
 ![Gen3 2 Orbiter Dragon 1](https://user-images.githubusercontent.com/68491566/132848046-67d77863-799a-4bd1-ae1e-968a23e3ffc2.png)
 # Tiki3_Dragon
-
+<b>Update 21 Nov 2022: </b> \
+Till date, I had several requests to design the Tiki3 Dragon mount with a 4010/4020 fan to replace the 3010 fan that cools the hotend. The objective I set on Tiki3 mount system are ease of print, compact, light-weight and efficient. 
+\
+\
+Looking at the side profile of the dragon or V6 hotend, the window needed to push air through is around 25mmx25mm = 625mm sq. For a 4010 the fan diameter is around 38mm which equates to an area of 1134mm sq. For a 3010 fan with a diameter of 28mm it is 616mm sq.
+\
+\
+To install a 4010 fan. The reduction in air path is roughly 2:1. This would mean I have to include proper funneling to reduce the air path which result in the increase the width of the mount, making it not compact. So screw-it and make a short funnel. An axial fan produces low pressure air, when faced with drastic decrease in duct size, back pressure will be a problem. The motor will spin at a slower rpm due to resistance, making efficiency an issue. 
+\
+\
+For a 3010 fan, the air path is roughly 1:1, hence no funneling needed. If there is a need to push more air through the heatbreak fins (using the HF version), a higher rpm fan is recommended ie. Gdstime sells 3010 fan 24V at 12,000 rpm or 8.4V at 20,000 rpm.
+\
+\
+To conclude, I am not going to design Tiki3 Dragon to fit a 4010/4020 fan. 
+\
+\
 <b>Update 12 Nov 2021: </b> This mount is for Orbiter V1.5. There will not be an update of Tiki3_Dragon for Orbiter V2.0. Why? https://github.com/thrutheframe/Tiki3_O2
 
 <b>Update 17 Oct 2021: </b> included fan_duct V2 and added body_top and fanduct_bracket for adxl345. Please note the distance for the mounting holes are 19mm. you will also need to directly solder your wire or use L-pins.
